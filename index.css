@@ -1,18 +1,18 @@
 * {
-	font-family: 'Roboto', sans-serif !important;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 #nav-bar {
-	background-color: #133E87;
+    background-color: #133E87;
 }
 
 #logo {
-	width: 30px;
-	height: 30px;
+    width: 40px;
+    height: 40px;
 }
 
 #landing {
-	background-image: 
+    background-image: 
         linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
         url(./images/bg1.jpg);
     background-repeat: no-repeat;
@@ -24,8 +24,8 @@
 }
 
 #calculator {
-	width: 	50px;
-	height: 50px;
+    width:  50px;
+    height: 50px;
 }
 
 #projects {
@@ -53,36 +53,36 @@
 }
 
 #contact {
-	width: 300px;
-	height: 300px;
+    width: 97px;
+    height: 97px;
 }
 
 
 #google, #facebook {
-	width: 50px;
-	height: 50px;
+    width: 50px;
+    height: 50px;
 }
 
 #contacts {
-	background-color: #CBDCEB;
+    background-color: #CBDCEB;
 }
 
 #form {
-	background-color: lightgray;
+    background-color: lightgray;
 }
 
 body {
-	overflow-x: hidden;
+    overflow-x: hidden;
 }
 
 #k {
-	max-width: 100px;
+    max-width: 100px;
 }
 
 #aboutme {
-	max-width: 300px;
+    max-width: 300px;
 }
 
 #photo {
-	max-width: 500px;"
+    max-width: 500px;"
 }
