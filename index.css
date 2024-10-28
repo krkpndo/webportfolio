@@ -1,0 +1,88 @@
+* {
+	font-family: 'Roboto', sans-serif !important;
+}
+
+#nav-bar {
+	background-color: #133E87;
+}
+
+#logo {
+	width: 30px;
+	height: 30px;
+}
+
+#landing {
+	background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+        url(./images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    color: white;
+}
+
+#calculator {
+	width: 	50px;
+	height: 50px;
+}
+
+#projects {
+    background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+        url(./images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    color: white;
+}
+
+#tools {
+    background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+        url(./images/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    color: white;
+}
+
+#contact {
+	width: 300px;
+	height: 300px;
+}
+
+
+#google, #facebook {
+	width: 50px;
+	height: 50px;
+}
+
+#contacts {
+	background-color: #CBDCEB;
+}
+
+#form {
+	background-color: lightgray;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+#k {
+	max-width: 100px;
+}
+
+#aboutme {
+	max-width: 300px;
+}
+
+#photo {
+	max-width: 500px;"
+}
